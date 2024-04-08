@@ -1,7 +1,5 @@
 # Note
-micihelle 的 Notebook 包括做各种lab的笔记、备忘录
-
-
+- micihelle 的 Notebook,包括一些课程笔记自学笔记
 
 参考项目：
 - CSDIY:

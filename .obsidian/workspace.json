@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "722940c2e9a0f0b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "923370e373d5f253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "682c875cadf97f00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-spt/Algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1da8eb80d6b59944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-spt/some fundamental mathematical definitions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdcfeb0e58e861db",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa7a53492f7eb6bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eadee08e0f95201b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6d06f7a0d236ead",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "daee543473ea3743",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3fb4190f21d2054",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.50152587890625
+  },
+  "right": {
+    "id": "abcab470b78cdeca",
+    "type": "split",
+    "children": [
+      {
+        "id": "89ab97962ee39d70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f2c5f03c2425058",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-spt/some fundamental mathematical definitions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72ff46f5847c6f9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-spt/some fundamental mathematical definitions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee8c06eca42b961f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a402d7ed4af0183b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-spt/some fundamental mathematical definitions.md"
+              }
+            }
+          },
+          {
+            "id": "61f9e35c36ec547c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1da8eb80d6b59944",
+  "lastOpenFiles": [
+    "1-spt/MIT 18.404J Theory of Computation.md",
+    "1-spt/some fundamental mathematical definitions.md",
+    "1-spt/The general goals of mathematical research.md",
+    "1-spt/topology.md",
+    "丘成桐数学竞赛学习材料：Algebra and Number Theory.md",
+    "README.md",
+    "1-spt/Analysis.md",
+    "1-spt/Algebra.md",
+    "2024-04-05.md",
+    "草稿.md",
+    "个人简历.md",
+    "md/云图3.md",
+    "Note/1-spt/代数.md",
+    "Note/1-spt/The general goals of mathematical research.md",
+    "Note/1-spt/MIT 18.404J Theory of Computation.md",
+    "Note/1-spt/Analysis.md",
+    "Note/1-spt",
+    "Note/PA1",
+    "Note/新建文件夹",
+    "2024-03-26.md",
+    "2024-03-24.md",
+    "考研新生思维误区咨询信.md",
+    "生活方式：策略和执行.md",
+    "留给wn.md",
+    "The general goals of mathematical research.md",
+    "Note/The general goals of mathematical research.md",
+    "德育论文.md",
+    "初等数学-不等式-答案.md",
+    "初等数学-不等式.md",
+    "md/毕业设计/未命名",
+    "md/毕业设计",
+    "2024-daily",
+    "2024-Reading-plan/未命名.canvas",
+    "Note/README.md~",
+    "Note",
+    "md",
+    "cd9510bb7e446b14927d01fe48ccc2d.jpg",
+    "e0cdccbf97ba7d86d53aab172bc52fe.jpg",
+    "Pasted image 20230722023906.png",
+    "wd-images/Pasted image 20230807150508.png",
+    "wd-images/Pasted image 20230807150208.png",
+    "wd-images/Pasted image 20230806202430.png",
+    "wd-images/Pasted image 20230807150744.png",
+    "wd-images/Pasted image 20230807150555.png",
+    "wd-images/Pasted image 20230809122402.png",
+    "wd-images/Pasted image 20230809122223.png",
+    "wd-images",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "未命名/未命名.canvas"
+  ]
+}
