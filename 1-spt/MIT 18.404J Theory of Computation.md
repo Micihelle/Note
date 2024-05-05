@@ -50,7 +50,7 @@ die off 的定义以及die off的各种形式->**只要不能达到目标状态�
 
 TCS学习材料：
 - https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/pages/assignments/
-- 
+
 
 idea:
 翻译工作参考-> pr项目idea

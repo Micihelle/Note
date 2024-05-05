@@ -1,6 +1,7 @@
 抽象代数motivation:
 第一个是从代数方程的解法到Galois理论；第二个是从Fermat大定理到代数数论的建立；第三个是从不变量理论到Hilbert定理。你按这三条线去读历史，自然会了解所有抽象代数概念和定理的由来
 
+
 ## Algebra-DIY
 - Axler Sheldon, Linear Algebra Done Right (Third Edition)
 
@@ -14,6 +15,9 @@ the definition of complex numbers (be descirbed by the  ordered pair of real num
 - A list of length n is an ordered collection of n elements (which might be numbers, other lists, or more
 abstract entities)
 
+EXERCISES 1.A：
+``` EXERCISES 1.A
+...
 07:分析学方法证明加法逆单位元的存在
 08:分析学方法证明乘法逆单位元的存在
 (为什么这里只解释一个分析学方法呢，因为觉得把数学当成一个整体会更好一点)
@@ -24,6 +28,8 @@ abstract entities)
 13：乘法交换律成立
 14：乘法逆单位元的存在
 15：....
+```
+
 
 1.B：Definition of Vector Space
 - motivation：properties of addition and scalar multiplication in $F^n$ -> **于品数学分析讲义中对空间的观点:配备了某些结构的集合$X$**
@@ -35,12 +41,36 @@ abstract entities)
 - the definition of Vector Space
 	- The simplest vector space contains only one point. In other words, $\{0\}$ is a vector space.
 
+Apply 1.23 to 1.24 Example:
+- 1.$\text{If S is a set, then F}^S\text{ denotes the set of functions from S to F}.$(包括了各种函数关系)
+- 2.
 
+加法单位元唯一性证明：假设等式两边存在不同的加法单位元->交换律
+加法逆元存在且唯一的证明：..
 
+ scalar multiplication：需要从两种角度来理解这种运算，一种是数的角度，一种是向量的角度
+ - 1.29 The number 0 times a vector -> the product of the scalar 0 and any vector equals the vector 0
+ - 1.30 A number times the vector 0 -> the product of any scalar and the vector 0 equals the vector 0.
 
+V：vector space exist the additive identity -> 0v (v属于$V$)(有没有更加自然的从数域的概念过渡到向量空间的概念的思路呢？)
+EXERCISES 1.B
+``` EXERCISES 1.B
+1. -> 加法逆单位元存在且唯一 Unique additive inverse(可参考1.25 Unique additive identity的证明方法：加法交换律成立、加法单位元存在且唯一)
+2.数与向量的点乘  
+-> 1.29 The number 0 times a vector:the product of the scalar 0 and any vector equals the vector 0 
+-> 1.30 the product of any scalar and the vector 0 equals the vector 0.
+-> 其他导致点乘结果0的情况？(已经包括了any scalar、any vector的组合情况)
 
+```
 
+3.向量与向量之间的“连通路径”存在且唯一
+- 向量的表示 ：x exists -> associativity
+- exists a unique $x\in V$   -> like the proof of 1.25  Unique additive identity,1.26 Unique additive inverse
 
+```
+4.empty set is not a vector space:
+-> the definition of vector space
+```
 
 ## 线性代数学习
 

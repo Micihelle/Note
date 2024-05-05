@@ -20,24 +20,36 @@
             }
           },
           {
-            "id": "1da8eb80d6b59944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-spt/some fundamental mathematical definitions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bd8a65c2d288f8e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1-spt/Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f134af7fe2f7b02d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-spt/MIT 18.404J Theory of Computation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "445f87e4a089d2c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Companion to Mathematics.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,15 +205,22 @@
   },
   "active": "682c875cadf97f00",
   "lastOpenFiles": [
-    "1-spt/some fundamental mathematical definitions.md",
-    "《普林斯顿数学指南》.md",
-    "1-spt/The general goals of mathematical research.md",
-    "1-spt/topology.md",
-    "1-spt/MIT 18.404J Theory of Computation.md",
-    "1-spt/Algebra.md",
     "1-spt/Analysis.md",
+    "1-spt/MIT 18.404J Theory of Computation.md",
+    "Companion to Mathematics.md",
+    "1-spt/Algebra.md",
+    "1-spt/some fundamental mathematical definitions.md",
+    "VII The Influence of Mathematics.md",
+    "0240418.md",
     "丘成桐数学竞赛学习材料：Algebra and Number Theory.md",
+    "1-spt/topology.md",
+    "1-spt/数字电子技术.md",
+    "1-spt/The general goals of mathematical research.md",
     "README.md",
+    "1-spt/discrete Math.md",
+    "数据结构.md",
+    "Pasted image 20240411205755.png",
+    "《普林斯顿数学指南》.md",
     "2024-04-05.md",
     "草稿.md",
     "个人简历.md",
@@ -215,12 +235,6 @@
     "2024-03-26.md",
     "2024-03-24.md",
     "考研新生思维误区咨询信.md",
-    "生活方式：策略和执行.md",
-    "留给wn.md",
-    "The general goals of mathematical research.md",
-    "Note/The general goals of mathematical research.md",
-    "德育论文.md",
-    "初等数学-不等式-答案.md",
     "md/毕业设计/未命名",
     "md/毕业设计",
     "2024-daily",
@@ -237,7 +251,6 @@
     "wd-images/Pasted image 20230807150744.png",
     "wd-images/Pasted image 20230807150555.png",
     "wd-images/Pasted image 20230809122402.png",
-    "wd-images/Pasted image 20230809122223.png",
     "wd-images",
     "未命名 1.canvas",
     "未命名.canvas",
