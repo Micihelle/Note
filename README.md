@@ -7,4 +7,4 @@
 
 
 todo:
-- [ ] 参考[Note](https://github.com/TonyCrane/note)的框架重构自己学习笔记展示框架：mkdocs的默认样式太拥挤了
+- [ ] 参考[Note](https://github.com/TonyCrane/note)的框架重构自己学习笔记展示框架：mkdocs的默认样式太拥挤了(先学完几门基础课再发布..)
